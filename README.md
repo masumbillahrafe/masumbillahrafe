@@ -1,11 +1,12 @@
 ## Hi, I'm Masum Billah 👋
 #####  *-_   Front-end Developer.   _-*
 
-### 🕵️  About Me
+### 🕵️  ABOUT ME
 
 I'm a Computer Engineer & Professional Front-end Developer. 
 I prefer to identify myself with my work rather than my name. 
 
+###  🦾 SKILL
 Skills: HTML / CSS / Bootstrap / Tailwind CSS / JavaScript / jQuery / php
 
 - 🌱 I’m currently learning LARAVEL FRAMEWORK 
