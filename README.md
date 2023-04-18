@@ -7,13 +7,13 @@ I'm a Computer Engineer & Professional Front-end Developer.
 I prefer to identify myself with my work rather than my name. 
 
 ###  🦾 SKILL
-✅ HTML
-✅ CSS
-✅ Bootstrap
-✅ Tailwind CSS
-✅ JavaScript
-✅ jQuery
-✅ php
+&nbsp; &nbsp; &nbsp;  ✅ &nbsp; HTML <br>
+&nbsp; &nbsp; &nbsp;  ✅  &nbsp;  CSS <br>
+&nbsp; &nbsp; &nbsp;  ✅  &nbsp;  Bootstrap <br>
+&nbsp; &nbsp; &nbsp;  ✅  &nbsp;  Tailwind CSS <br>
+&nbsp; &nbsp; &nbsp;  ✅  &nbsp;  JavaScript <br>
+&nbsp; &nbsp; &nbsp;  ✅  &nbsp;  jQuery <br>
+&nbsp; &nbsp; &nbsp;  ✅ &nbsp;   php
 
 
 - 🌱 I’m currently learning LARAVEL FRAMEWORK 
